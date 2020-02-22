@@ -1,0 +1,5 @@
+C:\Users\61096\Documents\Cs20483\Cs20483_Exercicio\Cs20483_Exercicio.Domain\bin\Debug\Cs20483_Exercicio.Domain.dll
+C:\Users\61096\Documents\Cs20483\Cs20483_Exercicio\Cs20483_Exercicio.Domain\bin\Debug\Cs20483_Exercicio.Domain.pdb
+C:\Users\61096\Documents\Cs20483\Cs20483_Exercicio\Cs20483_Exercicio.Domain\obj\Debug\Cs20483_Exercicio.Domain.csprojAssemblyReference.cache
+C:\Users\61096\Documents\Cs20483\Cs20483_Exercicio\Cs20483_Exercicio.Domain\obj\Debug\Cs20483_Exercicio.Domain.dll
+C:\Users\61096\Documents\Cs20483\Cs20483_Exercicio\Cs20483_Exercicio.Domain\obj\Debug\Cs20483_Exercicio.Domain.pdb
